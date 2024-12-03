@@ -33,8 +33,7 @@ int main(){
                 ll tot = num1*num2;
                 sum += tot;
             }
-        
-            
+             
         }
     }
     cout <<sum <<"\n";
